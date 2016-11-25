@@ -21,4 +21,11 @@ To run:
 
 Controls
 
+To start game, press right arrow
+
+Space - jump
+
+Control - fire
+
+On high friction grass, press right arrow and jump to move through
 
