@@ -15,9 +15,13 @@ To run:
 
 6. Browse to the directory where the Candyland.zip file is located and select it. Make sure the Into Folder option has the name of your project selected.
 
-7. Open the dropdown under your project in the package explorer, and right click on the Candyland folder. Select "Run as" and select "Run configurations"
+7. Open the dropdown under your project in the package explorer, and click on the Candyland folder to show its contents.
 
-8. Select "Java applet" and then "StartingClass" under the expanded drop down. Hit "Run"
+8. Click the src folder under Candyland and copy all of its contents (Folders: candylandgame, data - Files: Candyland.jardesc.xml) into the src folder of your project
+
+9. OPTIONAL - Copy the following files into your project: _classpath.xml, _project.xml, manifest.xml
+
+10. Right click on your project name in the package explorer, select "Run As" and select "Java Applet"
 
 Controls
 
